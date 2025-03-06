@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<!-- saved from url=(0026)file:///D:/NHTML/form.html -->
+<html lang="en" style=""><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Form Example</title>
+    <!-- Bootstrap CSS -->
+    <link href="./Form Example_files/bootstrap.min.css" rel="stylesheet">
+</head>
+<body style="">
+
+<div class="container mt-5">
+    <h2>Land and Building Details Form</h2>
+    <form>
+        <!-- 1. Name of the Campus/Institution -->
+        <div class="mb-3">
+            <label for="campusName" class="form-label">Name of Campus/Institution</label>
+            <input type="text" class="form-control" id="campusName" placeholder="Enter name">
+        </div>
+
+        <!-- 2. Identity of Land Available -->
+        <div class="mb-3">
+            <label class="form-label">Identity of Land Available</label>
+            <input type="text" class="form-control" placeholder="Details of Land Available">
+        </div>
+
+        <div class="row">
+			 <div class="col-md-4">
+                <label for="KhasraNumber" class="form-label">Khasra Number</label>
+                <input type="text" class="form-control" id="village">
+            </div>
+            <div class="col-md-4">
+                <label for="village" class="form-label">Village</label>
+                <input type="text" class="form-control" id="village">
+            </div>
+            <div class="col-md-4">
+                <label for="patwari" class="form-label">Patwari Halka</label>
+                <input type="text" class="form-control" id="patwari">
+            </div>
+            <div class="col-md-4">
+                <label for="tehsil" class="form-label">Tehsil</label>
+                <input type="text" class="form-control" id="tehsil">
+            </div>
+        </div>
+
+        <div class="row mt-3">
+            <div class="col-md-4">
+                <label for="district" class="form-label">District</label>
+                <input type="text" class="form-control" id="district">
+            </div>
+            <div class="col-md-4">
+                <label for="diverted" class="form-label">Diverted (Yes/No)</label><br>
+                <input type="radio" id="divertedYes" name="diverted" value="yes"> Yes
+                <input type="radio" id="divertedNo" name="diverted" value="no"> No
+            </div>
+        </div><br>
+		<div>
+			<h5><strong>Note: </strong>If more than one Khasra, please mention in a single line. If Khasra Number belong to
+			 different village seperate details.</h5>
+		</div>
+
+
+        <!-- 3. Date of Purchase -->
+        <div class="mb-3 mt-3">
+            <label for="purchaseDate" class="form-label">Date of Purchase</label>
+            <input type="date" class="form-control" id="purchaseDate">
+        </div>
+
+        <!-- 4. Upload Section -->
+        <div class="mb-3">
+            <label class="form-label">Upload Copies</label>
+            <div class="row">
+                <div class="col-md-6">
+                    <label for="copyA">Copy A</label>
+                    <input type="file" class="form-control" id="copyA">
+                </div>
+                <div class="col-md-6">
+                    <label for="copyB">Copy B</label>
+                    <input type="file" class="form-control" id="copyB">
+                </div>
+            </div>
+            <div class="row mt-3">
+                <div class="col-md-6">
+                    <label for="panchshala">Panchshala Khasra</label>
+                    <input type="file" class="form-control" id="panchshala">
+                </div>
+                <div class="col-md-6">
+                    <label for="diversionOrder">Diversion Order</label>
+                    <input type="file" class="form-control" id="diversionOrder">
+                </div>
+            </div>
+        </div>
+
+        <!-- 5. Total Area under Campus -->
+        <div class="mb-3">
+            <label for="totalArea" class="form-label">Total Area under Campus</label>
+            <input type="text" class="form-control" id="totalArea" placeholder="Enter total area">
+        </div>
+
+        <!-- 6. Layout Approval -->
+        <div class="mb-3">
+            <label class="form-label">Layout Approval from Town and Country Planning Department</label><br>
+            <input type="radio" id="layoutYes" name="layoutApproval" value="yes"> Yes
+            <input type="radio" id="layoutNo" name="layoutApproval" value="no"> No
+			<input type="file" class="form-control" id="layoutapproval">
+        </div>
+
+        <!-- 7. Details of Construction -->
+        <div class="mb-3">
+            <h4>Details of Construction</h4>
+            <div class="row">
+                <div class="col-md-4">
+                    <label for="buildingName" class="form-label">Name of Building</label>
+                    <input type="text" class="form-control" id="buildingName">
+                </div>
+                <div class="col-md-4">
+                    <label for="constructionYear" class="form-label">Year of Construction</label>
+                    <input type="text" class="form-control" id="constructionYear">
+                </div>
+                <div class="col-md-4">
+                    <label for="builtUpArea" class="form-label">Total Built-up Area</label>
+                    <input type="text" class="form-control" id="builtUpArea">
+                </div> 
+				<div class="col-md-4">
+                    <label for="builtUpArea" class="form-label">Get expand</label>
+                    <input type="text" class="form-control" id="expand">
+                </div>
+				<div> 
+					 <label for="BuildingPermission">Building Permission</label>
+					<input type="file" class="form-control" id="layoutapproval">
+				</div>
+            </div>
+        </div>
+
+        <!-- 8. Details of Other Land Outside -->
+        <div class="mb-3">
+            <label for="otherLand" class="form-label">Details of any other land outside campus</label>
+            <input type="text" class="form-control" id="otherLand" placeholder="Enter details">
+        </div>
+
+        <!-- Submit Button Centered -->
+        <div class="text-center">
+            <button type="submit" class="btn btn-primary">Submit</button>
+        </div>
+    </form>
+</div>
+
+<!-- Bootstrap JS -->
+<script src="./Form Example_files/bootstrap.bundle.min.js.download"></script>
+
+
+</body></html>

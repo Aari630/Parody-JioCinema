@@ -1,0 +1,389 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JioCinema Clone</title>
+    <link rel="stylesheet" href="css/JioCinema.css">
+	<link rel="icon" href="img/jc.png" type="image/png">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick-theme.min.css"/>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.js"></script>
+</head>
+<body>
+
+<header>
+    <nav class="navbar">
+        <div class="logo">
+            <a href="#"></a><img src="img/jc.png" alt="JioCinema Logo" />
+            <h3><strong>JioCinema</strong></h3>
+        </div>
+        <ul class="nav-links">
+            <li><a href="#">Home</a></li>
+            <li><a href="https://www.jiocinema.com/sports">Sports</a></li>
+            <li><a href="https://www.jiocinema.com/movies">Movies</a></li>
+            <li><a href="https://www.jiocinema.com/tv-shows">TV Shows</a></li>
+			<li><a href="https://www.jiocinema.com/">More</a></li>
+           
+        </ul>
+        <div class="search-container">
+            <input type="text" placeholder="Search..." />
+            <button class="search-button">
+               <img src="https://img.icons8.com/ios-filled/24/ffffff/search--v1.png" alt="Search" />
+            </button>
+        </div>
+        <div class="user-icons">
+            <img src="https://img.icons8.com/ios-filled/30/ffffff/user-male-circle.png" alt="User" />
+            <img src="https://img.icons8.com/ios-filled/30/ffffff/notification.png" alt="Notifications" />
+            <img src="https://img.icons8.com/ios-filled/30/ffffff/help.png" alt="Help" />
+        </div>
+    </nav>
+</header>
+
+<main>
+    <!-- Hero Section -->
+    <section class="hero-section">
+        <div class="hero-content">
+            <a href="https://www.jiocinema.com/tv-shows/mtv-hustle/3498828">
+			<h1>Watch the Latest Movies and Shows</h1>
+            <p>Your entertainment starts here. Explore our collection.</p></a>
+        </div>
+       <a href="https://www.jiocinema.com/tv-shows/mtv-hustle/3498828"><img src="img/hu.jpg" alt="Hero Image" class="hero-image"></a> <!-- Insert the appropriate hero image here -->
+    </section>
+
+    <!-- Hot Right Now Section -->
+    <section class="content-section">
+        <div class="section-header">
+            <h2>Hot Right Now</h2>
+        </div>
+        <div class="carousel">
+            <div class="card"><a href="https://www.jiocinema.com/movies/the-miranda-brothers/4043354"><img src="img/mb.jpg" alt="Hot Movie 1"></a></div> <!-- Hot Movie 1 -->
+            <div class="card"><a href="https://www.jiocinema.com/tv-shows/mtv-hustle/3498828"><img src="img/h.jpg" alt="Hot Movie 2"></a></div> <!-- Hot Movie 2 -->
+            <div class="card"><a href="https://www.jiocinema.com/movies/rathnam/4025861"><img src="img/r.jpg" alt="Hot Movie 3"></a></div> <!-- Hot Movie 3 -->
+        </div>
+    </section>
+
+    <!-- Fresh Episodes Section -->
+    <section class="content-section">
+        <div class="section-header">
+            <h2>Fresh Episodes</h2>
+        </div>
+        <div class="carousel">
+            <div class="card"><a href="https://www.jiocinema.com/tv-shows/bigg-boss/3499723"><img src="img/bi.jpg" alt="Fresh Episode 1"></a></div> <!-- Fresh Episode 1 -->
+            <div class="card"><a href="https://www.jiocinema.com/tv-shows/mangal-lakshmi/3910878"><img src="img/m.jpg" alt="Fresh Episode 2"></a></div> <!-- Fresh Episode 2 -->
+            <div class="card"><a href="https://www.jiocinema.com/videos/dhawan-karenge-with-shikhar-dhawan-with-rishabh-pant/3980204"><img src="img/d.jpg" alt="Fresh Episode 3"></a></div> <!-- Fresh Episode 3 -->
+        </div>
+    </section>
+
+    <!-- Top Picks for You Section -->
+    <section class="content-section">
+        <div class="section-header">
+            <h2>Top Picks for You</h2>
+        </div>
+        <div class="carousel">
+            <div class="card"><a href="https://www.jiocinema.com/tv-shows/game-of-thrones/3739477"><img src="img/got.jpg" alt="Top Pick 1"></a></div> <!-- Top Pick 1 -->
+            <div class="card"><a href="https://www.jiocinema.com/movies/boo/3754826"><img src="img/boo.jpg" alt="Top Pick 2"></a></div> <!-- Top Pick 2 -->
+            <div class="card"><a href="https://www.jiocinema.com/tv-shows/house-of-the-dragon/3740000"><img src="img/hod.jpg" alt="Top Pick 3"></a></div> <!-- Top Pick 3 -->
+        </div>
+    </section>
+
+    <!-- Must Watch Movies Section -->
+    <section class="content-section">
+        <div class="section-header">
+            <h2>Must Watch Movies</h2>
+        </div>
+        <div class="carousel">
+            <div class="card"><a href="https://www.jiocinema.com/movies/double-ismart/4035343"><img src="img/di.jpg" alt="Must Watch Movie 1"></a></div> <!-- Must Watch Movie 1 -->
+            <div class="card"><a href="https://www.jiocinema.com/movies/aranmanai-4/4028266"><img src="img/ar.jpg" alt="Must Watch Movie 2"></a></div> <!-- Must Watch Movie 2 -->
+            <div class="card"><a href="https://www.jiocinema.com/movies/jumanji-welcome-to-the-jungle-hindi/4036271"><img src="img/ju.jpg" alt="Must Watch Movie 3"></a></div> <!-- Must Watch Movie 3 -->
+        </div>
+    </section>
+
+    <!-- Best of Originals Section -->
+    <section class="content-section">
+        <div class="section-header">
+            <h2>Best of Originals</h2>
+        </div>
+        <div class="carousel">
+            <div class="card"><a href="https://www.jiocinema.com/tv-shows/dus-june-kii-raat/4000942"><img src="img/dj.jpg" alt="Original 1"></a></div> <!-- Original 1 -->
+            <div class="card"><a href="https://www.jiocinema.com/tv-shows/motu-patlu/3767884"><img src="img/mp.jpg" alt="Original 2"></a></div> <!-- Original 2 -->
+            <div class="card"><a href="https://www.jiocinema.com/tv-shows/chikoo-aur-bunty/3767517"><img src="img/cb.jpg" alt="Original 3"></a></div> <!-- Original 3 -->
+        </div>
+    </section>
+	
+	<!-- Hollywood in Hindi -->
+	<section class="content-section">
+        <div class="section-header">
+            <h2>Hollywood in Hindi</h2>
+        </div>
+        <div class="carousel">
+            <div class="card"><a href="https://www.jiocinema.com/movies/venom/4030350"><img src="img/v.jpg" alt="Original 1"></a></div> <!-- Original 1 -->
+            <div class="card"><a href="https://www.jiocinema.com/movies/spider-man-homecoming/4023721"><img src="img/shc.jpg" alt="Original 2"></a></div> <!-- Original 2 -->
+            <div class="card"><a href="https://www.jiocinema.com/movies/knight-and-day/4027850"><img src="img/ka.jpg" alt="Original 3"></a></div> <!-- Original 3 -->
+        </div>
+    </section>
+	
+	<!-- Top Trending this week -->
+	<section class="content-section">
+        <div class="section-header">
+            <h2>Top Trending this week</h2>
+        </div>
+        <div class="carousel">
+            <div class="card"><a href="https://www.jiocinema.com/tv-shows/laughter-chefs-unlimited-entertainment/3970000"><img src="img/lc.jpg" alt="Original 1"></a></div> <!-- Original 1 -->
+            <div class="card"><a href="https://www.jiocinema.com/tv-shows/mangal-lakshmi/3910878"><img src="img/m.jpg" alt="Original 2"></a></div> <!-- Original 2 -->
+            <div class="card"><a href="https://www.jiocinema.com/tv-shows/motu-patlu/3767884"><img src="img/mp.jpg" alt="Original 3"></a></div> <!-- Original 3 -->
+        </div>
+    </section>
+	
+	<!-- Free International BlockBusters -->
+	<section class="content-section">
+        <div class="section-header">
+            <h2>Free International BlockBusters</h2>
+        </div>
+        <div class="carousel">
+            <div class="card"><a href="https://www.jiocinema.com/movies/lost-and-found/4033646"><img src="img/lf.jpg" alt="Original 1"></a></div> <!-- Original 1 -->
+            <div class="card"><a href="https://www.jiocinema.com/movies/standoff/4038504"><img src="img/st.jpg" alt="Original 2"></a></div> <!-- Original 2 -->
+            <div class="card"><a href="https://www.jiocinema.com/movies/standoff/4038504"><img src="img/ve.jpg" alt="Original 3"></a></div> <!-- Original 3 -->
+        </div>
+    </section>
+	<!-- World of Anime -->
+	<section class="content-section">
+        <div class="section-header">
+            <h2>World of Anime</h2>
+        </div>
+        <div class="carousel">
+            <div class="card"><a href="https://www.jiocinema.com/tv-shows/bleach-thousand-year-blood-war/4031437"><img src="img/bl.jpg" alt="Original 1"></a></div> <!-- Original 1 -->
+            <div class="card"><a href="https://www.jiocinema.com/tv-shows/demon-slayer-kimetsu-no-yaiba/3964407"><img src="img/ds.jpg" alt="Original 2"></a></div> <!-- Original 2 -->
+            <div class="card"><a href="https://www.jiocinema.com/tv-shows/assassination-classroom/3964381"><img src="img/cl.jpg" alt="Original 3"></a></div> <!-- Original 3 -->
+        </div>
+    </section>
+	
+	<!-- Best of Kids and Family -->
+	<section class="content-section">
+        <div class="section-header">
+            <h2>Best of Kids and Family</h2>
+        </div>
+        <div class="carousel">
+            <div class="card"><a href="https://www.jiocinema.com/tv-shows/dee-dee/4041885"><img src="img/dede.jpg" alt="Original 1"></a></div> <!-- Original 1 -->
+            <div class="card"><a href="https://www.jiocinema.com/movies/hanuman-the-immortal-2/4039088"><img src="img/ha.jpg" alt="Original 2"></a></div> <!-- Original 2 -->
+            <div class="card"><a href="https://www.jiocinema.com/tv-shows/the-adventures-of-tenali-raman/4034727"><img src="img/te.jpg" alt="Original 3"></a></div> <!-- Original 3 -->
+        </div>
+    </section>
+	
+	<!-- Timeless Classic -->
+	<section class="content-section">
+        <div class="section-header">
+            <h2>Timeless Classic</h2>
+        </div>
+        <div class="carousel">
+            <div class="card"><a href="https://www.jiocinema.com/tv-shows/madhubala-ek-ishq-ek-junoon/3498503"><img src="img/ma.jpg" alt="Original 1"></a></div> <!-- Original 1 -->
+            <div class="card"><a href="https://www.jiocinema.com/tv-shows/balika-vadhu/3499425"><img src="img/bal.jpg" alt="Original 2"></a></div> <!-- Original 2 -->
+            <div class="card"><a href="https://www.jiocinema.com/tv-shows/dil-se-dil-tak/3497719"><img src="img/dil.jpg" alt="Original 3"></a></div> <!-- Original 3 -->
+        </div>
+    </section>
+
+	<!-- Timeless Classic -->
+	<section class="content-section">
+        <div class="section-header">
+            <h2>Hidden Gems</h2>
+        </div>
+        <div class="carousel">
+            <div class="card"><a href="https://www.jiocinema.com/movies/saheb-biwi-aur-gangster-returns/3481615"><img src="img/sa.jpg" alt="Original 1"></a></div> <!-- Original 1 -->
+            <div class="card"><a href="https://www.jiocinema.com/movies/omerta/3966786"><img src="img/o.jpg" alt="Original 2"></a></div> <!-- Original 2 -->
+            <div class="card"><a href="https://www.jiocinema.com/movies/maqbool/3994738"><img src="img/maq.jpg" alt="Original 3"></a></div> <!-- Original 3 -->
+        </div>
+    </section>
+	
+	<!-- Timeless Classic -->
+	<section class="content-section">
+        <div class="section-header">
+            <h2>Top 3 in India</h2>
+        </div>
+        <div class="carousel">
+            <div class="card"><a href="https://www.jiocinema.com/tv-shows/bigg-boss/3499723"><img src="img/1b.jpg" alt="Original 1"></a></div> <!-- Original 1 -->
+            <div class="card"><a href="https://www.jiocinema.com/tv-shows/bigg-boss-kannada/3497684"><img src="img/2b.jpg" alt="Original 2"></a></div> <!-- Original 2 -->
+            <div class="card"><a href="https://www.jiocinema.com/movies/double-ismart/4035343"><img src="img/3b.jpg" alt="Original 3"></a></div> <!-- Original 3 -->
+        </div>    </section>
+	
+	<!-- Timeless Classic -->
+	<section class="content-section">
+        <div class="section-header">
+            <h2>Top Sports Picks</h2>
+        </div>
+        <div class="carousel">
+            <div class="card"><a href="https://www.jiocinema.com/sports/cricket/india-vs-new-zealand-2nd-test-rohit-sharma-press-conference/4045723"><img src="img/ro.jpg" alt="Original 1"></a></div> <!-- Original 1 -->
+            <div class="card"><a href="https://www.jiocinema.com/sports/football/mohammedan-sc-vs-hyderabad-fc-highlights/4045948"><img src="img/fo.jpg" alt="Original 2"></a></div> <!-- Original 2 -->
+            <div class="card"><a href="https://www.jiocinema.com/sports/cricket/india-squad-selected-for-5-test-series-against-australia/4045298"><img src="img/sh.jpg" alt="Original 3"></a></div> <!-- Original 3 -->
+        </div>
+    </section>
+	
+	<!-- Timeless Classic -->
+	<section class="content-section">
+        <div class="section-header">
+            <h2>All Time BlockBusters</h2>
+        </div>
+        <div class="carousel">
+            <div class="card"><a href="https://www.jiocinema.com/movies/airlift/3966490"><img src="img/air.jpg" alt="Original 1"></a></div> <!-- Original 1 -->
+            <div class="card"><a href="https://www.jiocinema.com/movies/dashing-cm-bharath/3486202"><img src="img/cm.jpg" alt="Original 2"></a></div> <!-- Original 2 -->
+            <div class="card"><a href="https://www.jiocinema.com/movies/jab-we-met/3980148"><img src="img/jwm.jpg" alt="Original 3"></a></div> <!-- Original 3 -->
+        </div>
+    </section>
+	
+	<!-- Timeless Classic -->
+	<section class="content-section">
+        <div class="section-header">
+            <h2>Laughter Dose</h2>
+        </div>
+        <div class="carousel">
+            <div class="card"><a href="https://www.jiocinema.com/movies/desi-boyz/3489698"><img src="img/db.jpg" alt="Original 1"></a></div> <!-- Original 1 -->
+            <div class="card"><a href="https://www.jiocinema.com/movies/tanu-weds-manu/3837010"><img src="img/twm.jpg" alt="Original 2"></a></div> <!-- Original 2 -->
+            <div class="card"><a href="https://www.jiocinema.com/movies/johnny-english-strikes-again/3899937"><img src="img/je.jpg" alt="Original 3"></a></div> <!-- Original 3 -->
+        </div>
+    </section>
+	
+	
+	<!-- Timeless Classic -->
+	<section class="content-section">
+        <div class="section-header">
+            <h2>Peacock's Finest</h2>
+        </div>
+        <div class="carousel">
+            <div class="card"><a href="https://www.jiocinema.com/tv-shows/chicago-p-d/3750206"><img src="img/cpd.jpg" alt="Original 1"></a></div> <!-- Original 1 -->
+            <div class="card"><a href="https://www.jiocinema.com/movies/the-fall-guy/4009342"><img src="img/fg.jpg" alt="Original 2"></a></div> <!-- Original 2 -->
+            <div class="card"><a href="https://www.jiocinema.com/movies/fifty-shades-of-grey/3758785"><img src="img/fsog.jpg" alt="Original 3"></a></div> <!-- Original 3 -->
+        </div>
+    </section>
+	
+	<!-- Timeless Classic -->
+	<section class="content-section">
+        <div class="section-header">
+            <h2>Endless Entertainment</h2>
+        </div>
+        <div class="carousel">
+            <div class="card"><a href="https://www.jiocinema.com/movies/kalki/3502163"><img src="img/k.jpg" alt="Original 1"></a></div> <!-- Original 1 -->
+            <div class="card"><a href="https://www.jiocinema.com/movies/nh10/3491697"><img src="img/nh.jpg" alt="Original 2"></a></div> <!-- Original 2 -->
+            <div class="card"><a href="https://www.jiocinema.com/movies/sanam-teri-kasam/3492009"><img src="img/stk.jpg" alt="Original 3"></a></div> <!-- Original 3 -->
+        </div>
+    </section>
+	
+	<!-- Timeless Classic -->
+	<section class="content-section">
+        <div class="section-header">
+            <h2>Best In Premium</h2>
+        </div>
+        <div class="carousel">
+            <div class="card"><a href="https://www.jiocinema.com/tv-shows/honeymoon-photographer/4022717"><img src="img/hon.jpg" alt="Original 1"></a></div> <!-- Original 1 -->
+            <div class="card"><a href="https://www.jiocinema.com/tv-shows/khalbali-records/4015585"><img src="img/kr.jpg" alt="Original 2"></a></div> <!-- Original 2 -->
+            <div class="card"><a href="https://www.jiocinema.com/movies/visfot/4014310"><img src="img/vis.jpg" alt="Original 3"></a></div> <!-- Original 3 -->
+        </div>
+    </section>
+	
+	<!-- Hearbeat Sorrow -->
+	<section class="content-section">
+        <div class="section-header">
+            <h2>Hearbeats of Sorrow</h2>
+			<p>Get some tissues & ice cream, it's going to be a long cry!</p>
+        </div>
+        <div class="carousel">
+            <div class="card"><a href="https://www.jiocinema.com/movies/devdas/3484419"><img src="img/dev.jpg" alt="Original 1"></a></div> <!-- Original 1 -->
+            <div class="card"><a href="https://www.jiocinema.com/movies/love-aaj-kal/3500929"><img src="img/lak.jpg" alt="Original 2"></a></div> <!-- Original 2 -->
+            <div class="card"><a href="https://www.jiocinema.com/movies/rehnaa-hai-terre-dil-mein/3496074"><img src="img/rh.jpg" alt="Original 3"></a></div> <!-- Original 3 -->
+        </div>
+    </section>
+	
+	<!-- Most Watched In Creators Adda 🔥 -->
+	<section class="content-section">
+        <div class="section-header">
+            <h2>Most Watched In Creators Adda 🔥</h2>
+        </div>
+        <div class="carousel">
+            <div class="card"><a href="https://www.jiocinema.com/tv-shows/figuring-out-with-raj-shamani/1/diljit-dosanjh-on-music-love-life-childhood-bollywood-money-srk-and-india/4021789"><img src="img/rs1.jpg" alt="Original 1"></a></div> <!-- Original 1 -->
+            <div class="card"><a href="https://www.jiocinema.com/tv-shows/figuring-out-with-raj-shamani/1/vicky-kaushal-on-love-career-choices-and-life-lessons/4021792"><img src="img/rs2.jpg" alt="Original 2"></a></div> <!-- Original 2 -->
+            <div class="card"><a href="https://www.jiocinema.com/tv-shows/figuring-out-with-raj-shamani/1/india-s-foreign-minister-dr-s-jaishankar-on-india-geopolitics-international-relations/4021805"><img src="img/rs3.jpg" alt="Original 3"></a></div> <!-- Original 3 -->
+        </div>
+    </section>
+	
+	<!-- Best of Studio -->
+	<section class="content-section">
+        <div class="section-header">
+            <h2>Best of Studio</h2>
+        </div>
+        <div class="carousel">
+            <div class="card"><a href="https://www.jiocinema.com/tv-shows/tinder-swipe-ride/3767510"><img src="img/sr.jpg" alt="Original 1"></a></div> <!-- Original 1 -->
+            <div class="card"><a href="https://www.jiocinema.com/tv-shows/coke-studio/3906445"><img src="img/rm.jpg" alt="Original 2"></a></div> <!-- Original 2 -->
+            <div class="card"><a href="https://www.jiocinema.com/tv-shows/castrol-power1-presents-india-s-ultimate-motostar-on-mtv/3980906"><img src="img/ium.jpg" alt="Original 3"></a></div> <!-- Original 3 -->
+        </div>
+    </section>
+
+	<!-- Best of ISL 2024-25 -->
+	<section class="content-section">
+        <div class="section-header">
+            <h2>Best of ISL 2024-25</h2>
+        </div>
+        <div class="carousel">
+            <div class="card"><a href="https://www.jiocinema.com/sports/football/mohammedan-sc-vs-hyderabad-fc-highlights/4045948"><img src="img/fo1.jpg" alt="Original 1"></a></div> <!-- Original 1 -->
+            <div class="card"><a href="https://www.jiocinema.com/sports/football/northeast-united-fc-vs-jamshedpur-fc-highlights/4045799"><img src="img/fo2.jpg" alt="Original 2"></a></div> <!-- Original 2 -->
+            <div class="card"><a href="https://www.jiocinema.com/sports/football/kerala-blasters-fc-vs-bengaluru-fc-highlights/4045210"><img src="img/fo3.jpg" alt="Original 3"></a></div> <!-- Original 3 -->
+        </div>
+    </section>
+
+</main>
+
+<footer class="footer">
+    <div class="footer-container">
+        <div class="footer-section">
+            <h4>JioCinema</h4>
+            <ul>
+                <li><a href="https://www.jiocinema.com/">For You</a></li>
+                <li><a href="https://www.jiocinema.com/sports">Sports</a></li>
+                <li><a href="https://www.jiocinema.com/movies">Movies</a></li>
+                <li><a href="https://www.jiocinema.com/tv-shows">TV Shows</a></li>
+            </ul>
+		</div>
+		<div class="footer-section">
+			<h4>Support</h4>
+            <ul>
+                <li><a href="https://help.jiocinema.com/?uid=65690ce7-7247-6f4c-462b-734fa183ddf4&profilename=Update_Your_Name_9537">Help Center</a></li>
+                <li><a href="https://help.jiocinema.com/articles/terms-and-conditions/terms-and-conditions/641d382892cd636d4c10983d?uid=65690ce7-7247-6f4c-462b-734fa183ddf4&profilename=Update_Your_Name_9537">Terms of Use</a></li>
+                <li><a href="https://help.jiocinema.com/articles/terms-and-conditions/privacy-policy/641d3829d903444a7aef49b1?uid=65690ce7-7247-6f4c-462b-734fa183ddf4&profilename=Update_Your_Name_9537">Privacy Policy</a></li>
+                <li><a href="https://help.jiocinema.com/articles/terms-and-conditions/content-complaints/641d382892cd636d4c10983e?uid=65690ce7-7247-6f4c-462b-734fa183ddf4&profilename=Update_Your_Name_9537">Content Complaints</a></li>
+            </ul>
+		</div>
+        <div class="footer-section">
+            <h4>Follow Us</h4>
+            <div class="social-icons">
+                <a href="https://www.facebook.com/JioCinema/"><img src="img/facebook.png" alt="Facebook"></a> <!-- Facebook Icon -->
+                <a href="https://x.com/JioCinema"><img src="img/twitter.png" alt="Twitter"></a> <!-- Twitter Icon -->
+                <a href="https://www.instagram.com/officialjiocinema/"><img src="img/instagram.png" alt="Instagram"></a> <!-- Instagram Icon -->
+                <a href="https://www.youtube.com/channel/UC8To9CFsZzvPafxMLzS08iA"><img src="img/youtube.png" alt="YouTube"></a> <!-- YouTube Icon -->
+            </div>
+        </div>
+        <div class="footer-section">
+            <h4>Get the App</h4>
+            <div class="app-icons">
+                <a href="https://play.google.com/store/apps/details?id=com.jio.media.ondemand&hl=en_IN&gl=US"><img src="img/playstore.png" alt="Google Play Store"></a> <!-- Google Play Store Icon -->
+                <a href="https://apps.apple.com/in/app/jiocinema/id1067316596"><img src="img/app-store.png" alt="App Store"></a> <!-- App Store Icon -->
+            </div>
+        </div>
+        <div class="footer-section copyright">
+            <p>&copy; 2024 JioCinema. All Rights Reserved.</p>
+        </div>
+    </div>
+</footer>
+
+<script>
+    $(document).ready(function() {
+        $('.carousel').slick({
+            slidesToShow: 3,
+            slidesToScroll: 1,
+            autoplay: true,
+            autoplaySpeed: 2000,
+            dots: true,
+            arrows: true
+        });
+    });
+</script>
+
+</body>
+</html>

@@ -1,0 +1,691 @@
+<!DOCTYPE html>
+<!-- saved from url=(0023)https://www.sjsmls.com/ -->
+<html class=" no-htmlimports no-flash no-proximity no-applicationcache blobconstructor blob-constructor cookies cors customprotocolhandler dataview eventlistener geolocation history no-ie8compat json notification queryselector serviceworker customevent postmessage svg templatestrings typedarrays websockets no-xdomainrequest webaudio webworkers no-contextmenu cssall audio canvas canvastext contenteditable emoji olreversed no-userdata video no-vml webanimations webgl adownload audioloop canvasblending todataurljpeg todataurlpng todataurlwebp canvaswinding no-ambientlight hashchange inputsearchevent pointerevents no-hiddenscroll mathml unicoderange no-touchevents no-unicode no-batteryapi no-battery-api crypto no-dart gamepads fullscreen indexeddb indexeddb-deletedatabase intl pagevisibility performance pointerlock quotamanagement requestanimationframe raf vibrate no-webintents no-lowbattery getrandomvalues backgroundblendmode cssanimations backdropfilter backgroundcliptext appearance exiforientation audiopreload"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <title>
+	SJS PUBLIC SCHOOL
+</title>
+
+    <!-- Css Files -->
+    <link href="./phy_files/bootstrap.css" rel="stylesheet"><link href="./phy_files/font-awesome.css" rel="stylesheet"><link href="./phy_files/all.min.css" rel="stylesheet"><link href="./phy_files/flaticon.css" rel="stylesheet"><link href="./phy_files/slick-slider.css" rel="stylesheet"><link href="./phy_files/prettyphoto.css" rel="stylesheet"><link href="./phy_files/mediaelementplayer.css" rel="stylesheet"><link href="./phy_files/style.css" rel="stylesheet"><link href="./phy_files/color.css" rel="stylesheet"><link href="./phy_files/color-two.css" rel="stylesheet"><link href="./phy_files/color-three.css" rel="stylesheet"><link href="./phy_files/color-four.css" rel="stylesheet"><link href="./phy_files/responsive.css" rel="stylesheet">
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async="" src="./phy_files/js"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-86PFYLELM1');
+</script>
+
+    
+<style id="fit-vids-style">.fluid-width-video-wrapper{width:100%;position:relative;padding:0;}.fluid-width-video-wrapper iframe,.fluid-width-video-wrapper object,.fluid-width-video-wrapper embed {position:absolute;top:0;left:0;width:100%;height:100%;}</style><script type="text/javascript" charset="UTF-8" src="./phy_files/common.js.download"></script><script type="text/javascript" charset="UTF-8" src="./phy_files/util.js.download"></script></head>
+<body class="wm-sticky">
+    
+    
+        
+         <!--// Main Wrapper \\-->
+    <div class="wm-main-wrapper">
+        
+        <!--// Header \\-->
+		<header id="wm-header" class="wm-header-two">
+
+            <!--// TopStrip \\-->
+			<div class="wm-topstrip">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-12">
+                            <ul class="wm-stripinfo">
+                                <li><i class="wmicon-location"></i> Office: Royal Villa, Model Town, Civil Lines, RaeBareli</li>
+                                <li><i class="wmicon-technology4"></i> 	0535 - 2203843</li>
+                                <li><i class="wmicon-time2"></i> Mon - sat: 7:00am - 6:00pm</li>
+                            </ul>
+                            <div class="wm-right-section">
+                                <ul class="wm-login-section">
+                                    <li><a href="https://www.sjsmls.com/#" data-toggle="modal" data-target="#ModalLoginTwo">Branches</a></li>
+                                    <li><a href="https://www.sjsmls.com/#" data-toggle="modal" data-target="#">Affiliated To CBSE</a></li>
+                                    
+                                </ul>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!--// TopStrip \\-->
+
+            <!--// MainHeader \\-->
+            <div class="wm-main-header">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-3"><a href="https://www.sjsmls.com/index-two.html" class="wm-logo"><img src="./phy_files/lg.png" alt=""></a></div>
+                        <div class="col-md-9">
+                            <!--// Navigation \\-->
+                            <nav class="navbar navbar-default">
+                                <div class="navbar-header">
+                                  <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse-1" aria-expanded="true">
+                                    <span class="sr-only">Toggle navigation</span>
+                                    <span class="icon-bar"></span>
+                                    <span class="icon-bar"></span>
+                                    <span class="icon-bar"></span>
+                                  </button>
+                                </div>
+                                <div class="collapse navbar-collapse" id="navbar-collapse-1">
+                                  <ul class="nav navbar-nav">
+                                    <li class="active"><a href="https://www.sjsmls.com/Default.aspx">Home</a>
+                                       
+                                    </li>
+                                    
+                                    <li><a href="https://www.sjsmls.com/Rules.aspx">Rules</a>
+                                    </li><li><a href="https://www.sjsmls.com/events.aspx">Event</a>
+                                        
+                                    </li>
+                                    
+                                        
+                                    
+                                    
+                                    <li class="active"><a href="https://www.sjsmls.com/#">Academics</a>
+                                       <ul class="wm-dropdown-menu">
+                                            
+                                            <li><a href="https://www.sjsmls.com/Examination.aspx">Examination</a></li>
+                                            <li><a href="https://www.sjsmls.com/Syllabus.aspx">Syllabus</a></li>
+                                            <li><a href="https://www.sjsmls.com/Calender.aspx">Calender </a></li>
+                                            <li><a href="https://www.sjsmls.com/circular.aspx">Circular </a></li>
+                                            
+                                        </ul>
+                                    </li>
+                                    
+                                     <li class="wm-megamenu-li"><a href="https://www.sjsmls.com/Gallery.aspx">Gallery</a>
+                                        
+                                    </li>
+                                   
+                                    <li><a href="https://www.sjsmls.com/Careear.aspx">Careers</a>
+                                    </li><li class="wm-megamenu-li"><a href="https://www.sjsmls.com/contact.aspx">Contact</a>
+                                        
+                                    </li>
+                                    
+                                      
+                                    <li><a href="https://www.sjsmls.com/Alumni.aspx">Alumni</a>
+                                  </li></ul>
+                                </div>
+                            </nav>
+                            <!--// Navigation \\
+                            <a href="#" class="wm-enroll-btn wm-color-two"><i class="wmicon-tool3"></i> Enroll Today</a>-->
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!--// MainHeader \\-->
+
+		</header>
+		<!--// Header \\-->
+
+		
+    <!--// Main Banner \\-->
+		<div class="wm-main-banner">
+            
+            <div class="wm-banner-two slick-initialized slick-slider">
+                <div aria-live="polite" class="slick-list draggable"><div class="slick-track" role="listbox" style="opacity: 1; width: 1349px;"><div class="wm-banner-two-layer slick-slide slick-current slick-active" data-slick-index="0" aria-hidden="false" tabindex="-1" role="option" aria-describedby="slick-slide00" style="width: 1349px; position: relative; left: 0px; top: 0px; z-index: 999; opacity: 1;">
+                    <span class="wm-bannertwo-transparent"></span>
+                    <img src="./phy_files/banner-sjs-3.jpg" alt="">
+                    <div class="wm-caption-two">
+                        <div class="container">
+                            <div class="wm-caption-two-inner">
+                                <h1>30 Years of Fulfilling Dreams</h1>
+                                <p>Imparting education is our prime motive from the last 25 years till date we are committed to transforming lives through value education.</p>
+                                <div class="clearfix"></div>
+                                <a href="https://www.sjsmls.com/About.aspx" tabindex="0"><span>About Us</span></a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="wm-banner-adds">
+                        <ul>
+                            
+                           
+                        </ul>
+                    </div>
+                </div></div></div>
+               
+            </div>
+
+		</div>
+		<!--// Main Banner \\-->
+
+        
+		<!--// Main Content \\-->
+		<div class="wm-main-content">
+
+            <!--// Main Section \\-->
+            <div class="wm-main-section wm-service-slider-full">
+                <div class="container">
+                    
+                    <div class="row">
+                        
+                        <div class="col-md-6"> <figure class="wm-figure-thumb"><img src="./phy_files/2022629115941820about-1.jpg" alt=""></figure> </div>
+                        <div class="col-md-6 wm-editore-text">
+                            <h2 class="wm-left-border wm-color">R.B.Singh<br>Managing Director</h2>
+                            <p>Thinkers and social reformers like Pt. Shiv Shankar Tripathi, Sir Duccan Calvin Beli and Thakur Karan Bahadur Singh gave their precious live for the pious tasks of educating the society all the time and this process will continue till the Doom's day</p>
+                            <div id="Div1" class="wm-accordion wm-typography-element">
+										<div class="panel panel-default">
+											<div class="panel-heading">
+													<a class="" aria-controls="collapseOne" aria-expanded="false" href="https://www.sjsmls.com/#1" data-parent="#accordion" data-toggle="collapse" role="button">Read More.... </a>
+											</div>
+											<div id="1" class="panel-collapse collapse" role="tabpanel" aria-expanded="false" style="text-align:justify;">
+												<div class="panel-body">
+													<p style="text-align:justify;">Keeping this objective in mind, S.J.S is striving hard from the very beginning to develop a senes of discipline as well as self respect amongst its students through knowledge so that they may bloom into the true citizens of this great motherland.</p>
+                                                    <p style="text-align:justify;">Many in the society want to hold the torch of education with us and for paying them a True honors S.J.S has agreed to work in the shape of a group named S.J.S Group of Schools. I have been given the task to work in the capacity of Managing Director for which I am under obligation.</p>
+                                                    <p style="text-align:justify;">My life will be success, if by the blessing of God I would contribute something in this regard with the co-operation of all concerned.(rbsinghsjs@gmail.com)</p>
+												</div>
+											</div>
+										</div>
+										
+									</div>
+                        </div>
+
+                    </div>
+                        
+                    <div class="row">
+                        
+                        <div class="col-md-6"> <figure class="wm-figure-thumb"><img src="./phy_files/2022629115956617about-2.jpg" alt=""></figure> </div>
+                        <div class="col-md-6 wm-editore-text">
+                            <h2 class="wm-left-border wm-color">Mr. Agraj Singh<br>Manager (M.L.S. Society)</h2>
+                            <p>Life is what you make of it; I would be delighted to be involved in the education of your ward. Let us make the best of every situation.</p>
+                            <div id="Div1" class="wm-accordion wm-typography-element">
+										<div class="panel panel-default">
+											<div class="panel-heading">
+													<a class="" aria-controls="collapseOne" aria-expanded="false" href="https://www.sjsmls.com/#2" data-parent="#accordion" data-toggle="collapse" role="button">Read More.... </a>
+											</div>
+											<div id="2" class="panel-collapse collapse" role="tabpanel" aria-expanded="false" style="text-align:justify;">
+												<div class="panel-body">
+													<p style="text-align:justify;">Children are the architect of future; education is a noble work it is true that noble aim cannot be achieved without each ones co-operation. Parents become the first teacher &amp; teacher becomes the second parent. With a sense of pride, I can honestly say that school is making whole hearted efforts to provide all the best possible amenities and opportunities year by year to our student. I gratefully acknowledge your trust &amp; confidence deposed in SJS by giving an opportunity to serve you and your ward in a better way. (agrajsingh@gmail.com)</p>
+                                                    <p style="text-align:justify;"></p>
+                                                    <p style="text-align:justify;"></p>
+												</div>
+											</div>
+										</div>
+										
+									</div>
+                        </div>
+
+                    </div>
+                        
+                    <div class="row">
+                        
+                        <div class="col-md-6"> <figure class="wm-figure-thumb"><img src="./phy_files/20226291209884about-3.jpg" alt=""></figure> </div>
+                        <div class="col-md-6 wm-editore-text">
+                            <h2 class="wm-left-border wm-color">Mrs. Anushree Singh<br>Joint Manager (M.L.S. Society)</h2>
+                            <p>Quality education must be the main motto of our education system.</p>
+                            <div id="Div1" class="wm-accordion wm-typography-element">
+										<div class="panel panel-default">
+											<div class="panel-heading">
+													<a class="" aria-controls="collapseOne" aria-expanded="false" href="https://www.sjsmls.com/#3" data-parent="#accordion" data-toggle="collapse" role="button">Read More.... </a>
+											</div>
+											<div id="3" class="panel-collapse collapse" role="tabpanel" aria-expanded="false" style="text-align:justify;">
+												<div class="panel-body">
+													<p style="text-align:justify;">We have to build the literate and intelligent nation. To achieve this, we have to spark the interest of education in students. S.J.S is working hard from starting to establish the sense discipline, self-respect along with quality education to their students, while they can shine and become pride of the nation. BEST OF LUCK FOR THE NEW SESSION along with mail - (anushreesingh559@gmail.com).</p>
+                                                    <p style="text-align:justify;"></p>
+                                                    <p style="text-align:justify;"></p>
+												</div>
+											</div>
+										</div>
+										
+									</div>
+                        </div>
+
+                    </div>
+                        
+                </div>
+            </div>
+            <!--// Main Section \\-->
+
+             <!--// Main Section \\-->
+            
+            <!--// Main Section \\-->
+             <!--// Main Section \\-->
+           
+            <!--// Main Section \\-->
+
+            
+
+
+            
+
+            <!--// Main Section \\-->
+			<div class="wm-main-section wm-service-slider-full">
+				<div class="container">
+					<div class="row">
+						
+						<div class="col-md-12">
+                            <h2 class="wm-service-heading"> Facilities <span></span></h2>
+							<div class="wm-service-slider slick-initialized slick-slider"><span class="slick-arrow slick-arrow-left" style="display: block;"><i class="wmicon-arrows3"></i></span>
+                                <div aria-live="polite" class="slick-list draggable"><div class="slick-track" role="listbox" style="opacity: 1; width: 2280px;"><div class="wm-service-layer slick-slide slick-current slick-active" data-slick-index="0" aria-hidden="false" tabindex="-1" role="option" aria-describedby="slick-slide10" style="width: 1140px; position: relative; left: 0px; top: 0px; z-index: 999; opacity: 1;">
+                                    <ul class="row">
+                                        <li class="col-md-3">
+                                            <i class="fas fa-vials"></i>
+                                            
+                                            <span>Physics Lab</span>
+                                            
+                                        </li>
+                                        <li class="col-md-3">
+                                            <i class="fas fa-flask"></i>
+                                            <span>Chemistry Lab</span>
+                                            
+                                        </li>
+                                        <li class="col-md-3">
+                                            
+                                            <i class="fab fa-canadian-maple-leaf"></i>
+                                            <span>Bio Lab</span>
+                                            
+                                        </li>
+                                        <li class="col-md-3">
+                                            <i class="fa fa-laptop" aria-hidden="true"></i>
+                                            <span>Computer Lab</span>
+                                            
+                                        </li>
+                                        <li class="col-md-3">
+                                            <i class="fa fa-play-circle" aria-hidden="true"></i>
+                                            <span>Smart Class</span>
+                                            
+                                        </li>
+                                        <li class="col-md-3">
+                                            <i class="fas fa-bus"></i>
+                                            <span>Transport</span>
+                                            
+                                        </li>
+                                        <li class="col-md-3">
+                                            <i class="fas fa-democrat"></i>
+                                            <span>Play Group</span>
+                                            
+                                        </li>
+                                        <li class="col-md-3">
+                                            <i class="fas fa-video"></i>
+                                            <span>CCTV Camera</span>
+                                            
+                                        </li>
+                                    </ul>
+                                </div><div class="wm-service-layer slick-slide" data-slick-index="1" aria-hidden="true" tabindex="-1" role="option" aria-describedby="slick-slide11" style="width: 1140px; position: relative; left: -1140px; top: 0px; z-index: 998; opacity: 0; transition: opacity 500ms;">
+                                    <ul class="row">
+                                        <li class="col-md-3">
+                                            <i class="fas fa-car-battery"></i>
+                                            <span>Power Backup</span>
+                                            
+                                        </li>
+                                        <li class="col-md-3">
+                                            <i class="fas fa-hand-holding-water"></i>
+                                            <span>RO Water Plant</span>
+                                            
+                                        </li>
+                                        <li class="col-md-3">
+                                            <i class="fas fa-comments-dollar"></i>
+                                            <span>Digital Interface</span>
+                                            
+                                        </li>
+                                        <li class="col-md-3">
+                                            <i class="fab fa-gripfire"></i>
+                                            <span>Fire Extinguisher</span>
+                                            
+                                        </li>
+                                       
+                                    </ul>
+                                </div></div></div>
+                                
+                            <span class="slick-arrow slick-arrow-right" style="display: block;"><i class="wmicon-arrows3"></i></span></div>
+						</div>
+
+					</div>
+				</div>
+			</div>
+			<!--// Main Section \\-->
+
+            
+
+             <!--// Main Section \\-->
+            <div class="wm-main-section wm-plain-service-full">
+                <div class="container">
+                    <div class="row">
+                        <h2 class="wm-left-border wm-color">Our Achievement</h2>
+                        <div class="col-md-12">
+                            <div class="wm-service wm-plain-service">
+                                <ul class="row">
+                                    <li class="col-md-3">
+                                        <span class="wm-color-two"><i class="fa fa-graduation-cap"></i> <small class="word-count">30</small></span>
+                                        <h5><a href="https://www.sjsmls.com/#">Glorious Years</a></h5>
+                                        <p></p>
+                                    </li>
+                                    <li class="col-md-3">
+                                        <span class="wm-color-two"><i class="fas fa-users-cog"></i> <small class="word-count">12</small></span>
+                                        <h5><a href="https://www.sjsmls.com/#">Members</a></h5>
+                                        <p></p>
+                                    </li>
+                                    <li class="col-md-3">
+                                        <span class="wm-color-two"><i class="fas fa-award"></i> <small class="word-count">34</small></span>
+                                        <h5><a href="https://www.sjsmls.com/#">AWARD WINNING</a></h5>
+                                        <p></p>
+                                    </li>
+                                    <li class="col-md-3">
+                                        <span class="wm-color-two"><i class="fas fa-id-card-alt"></i> <small class="word-count">56</small></span>
+                                        <h5><a href="https://www.sjsmls.com/#">FACULTIES</a></h5>
+                                        <p></p>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+            <!--// Main Section \\-->
+
+             <!--// Main Section \\-->
+            <div class="wm-main-section wm-studentslove-full">
+                <div class="container">
+                    <div class="row">
+                        
+                        
+                        <div class="col-md-6">
+                            <div class="wm-classic-heading">
+								<h2 class="wm-left-border wm-color">Notices</h2>
+							</div>
+                            <div class="wm-recent-list-slider wm-recent-list-slider-color slick-initialized slick-slider slick-vertical">
+                              
+                                
+                            <div aria-live="polite" class="slick-list draggable" style="height: 0px; padding: 50px 0px;"><div class="slick-track" role="listbox" style="opacity: 1; height: 0px; top: 0px;"></div></div></div>
+                        </div>
+                        <div class="col-md-6"> 
+                            <div class="wm-classic-heading">
+								<h2 class="wm-left-border wm-color">Events</h2>
+							</div>
+                             
+                            <div class="wm-recent-list-slider wm-recent-list-slider-color slick-initialized slick-slider slick-vertical">
+                              
+                                
+                            <div aria-live="polite" class="slick-list draggable" style="height: 0px; padding: 50px 0px;"><div class="slick-track" role="listbox" style="opacity: 1; height: 0px; top: 0px;"></div></div></div>
+                            
+                        </div>
+                        
+
+                    </div>
+                </div>
+            </div>
+            <!--// Main Section \\-->
+
+			 <!--// Main Section \\-->
+            
+            <!--// Main Section \\-->
+
+            <!-- Talha index_2.html  -->
+            <!--// Main Banner \\-->
+		         
+		    <!--// Main Banner \\-->
+
+            <!--// Main Section \\-->
+            
+            <!--// Main Section \\-->
+           
+
+            <!--// Main Section \\-->
+            
+            <!--// Main Section \\-->
+
+            <!--// Main Section \\-->
+            
+            <!--// Main Section \\-->
+
+            <!--// Main Section \\-->
+            
+            <!--// Main Section \\-->
+
+            <!--// Main Section \\-->
+            
+            <!--// Main Section \\-->
+
+            <!--// Main Section \\-->
+            
+            <!--// Main Section \\-->
+
+            <!--// Main Section \\-->
+            
+            <!--// Main Section \\-->
+
+
+
+          
+
+
+
+            <!--// Main Section \\-->
+            
+            <!--// Main Section \\-->
+
+            <!--// Main Section \\-->
+            <div class="wm-main-section wm-contact-service-two-full">
+                <div class="container">
+                    <div class="row">
+                        
+                        <div class="col-md-12 wm-contact-main">
+                            <div class="wm-contact-service-two">
+                                <ul class="row">
+                                    <li class="col-md-4">
+                                        <span class="wm-ctservice-icon wm-bgcolor-two"><i class="wmicon-pin"></i></span>
+                                        <h5 class="wm-color">Address</h5>
+                                        <p>Office: Royal Villa, Model Town, Civil Lines, RaeBareli</p>
+                                    </li>
+                                    <li class="col-md-4">
+                                        <span class="wm-ctservice-icon wm-bgcolor-two"><i class="wmicon-phone"></i></span>
+                                        <h5 class="wm-color">Phone &amp; Fax</h5>
+                                        <p>0535 - 2203843</p>
+                                    </li>
+                                    <li class="col-md-4">
+                                        <span class="wm-ctservice-icon wm-bgcolor-two"><i class="wmicon-letter"></i></span>
+                                        <h5 class="wm-color">E-mail</h5>
+                                        <p><a href="mailto:name@email.com">rbsinghsjs@gmail.com</a> <a href="mailto:name@email.com">agrajsingh@gmail.com</a></p>
+                                    </li>
+                                </ul>
+                            </div>
+                            <ul class="contact-social-icon">
+                                <li><a href="https://www.sjsmls.com/#"><i class="wm-color wmicon-social5"></i> Facebook</a></li>
+                                <li><a href="https://www.sjsmls.com/#"><i class="wm-color wmicon-social4"></i> Twitter</a></li>
+                                <li><a href="https://www.sjsmls.com/#"><i class="wm-color wmicon-social3"></i> Linkedin</a></li>
+                                <li><a href="https://www.sjsmls.com/#"><i class="wm-color wmicon-vimeo"></i> Vimeo</a></li>
+                            </ul>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+            <!--// Main Section \\-->
+
+		</div>
+		<!--// Main Content \\-->
+
+
+        
+
+		<!--// Footer \\-->
+		<footer id="wm-footer" class="wm-footer-two">
+
+            <!--// FooterWidgets \\-->
+            <div class="wm-footer-widget">
+                <div class="container">
+                    <div class="row">
+                        <aside class="col-md-3 widget wm_working_hours">
+                            <div class="wm-footer-widget-title"> <h2>Working Hours</h2> </div>
+                            <ul>
+                                <li>Monday <span>8am - 6pm</span></li>
+                                <li>Tuesday <span>8am - 6pm</span></li>
+                                <li>Wednesday <span>8am - 6pm</span></li>
+                                <li>Thursday <span>8am - 6pm</span></li>
+                                <li>Friday <span>8am - 6pm</span></li>
+                                <li>Saturday <span>Closed</span></li>
+                                <li>Sunday <span>Closed</span></li>
+                            </ul>
+                        </aside>
+                        
+                        <aside class="widget widget_archive col-md-2">
+                            <div class="wm-footer-widget-title"> <h2>Quick Links</h2> </div>
+                            <ul>
+                                <li><a href="https://www.sjsmls.com/Default.aspx">Home</a></li>
+                                <li><a href="https://www.sjsmls.com/about.aspx">About</a></li>
+                                <li><a href="https://www.sjsmls.com/#">Event</a></li>
+                                <li><a href="https://www.sjsmls.com/#">Careers</a></li>
+                                <li><a href="https://www.sjsmls.com/#">Alumini</a></li>
+                            </ul>
+                        </aside>
+                        <aside class="widget widget_gallery_two col-md-3">
+                            <div class="wm-footer-widget-title"> <h2>Our Gallery</h2> </div>
+                            <ul class="gallery">
+                                <li><a title="" data-rel="prettyPhoto[gallery1]" href="https://www.sjsmls.com/extra-images/widget-gallery-2-full-1.jpg"><img src="./phy_files/widget-gallery-2-1.jpg" alt=""> <span><i class="wmicon-arrows3"></i></span> </a></li>
+                                <li><a title="" data-rel="prettyPhoto[gallery1]" href="https://www.sjsmls.com/extra-images/widget-gallery-2-full-2.jpg"><img src="./phy_files/widget-gallery-2-2.jpg" alt=""> <span><i class="wmicon-arrows3"></i></span> </a></li>
+                                <li><a title="" data-rel="prettyPhoto[gallery1]" href="https://www.sjsmls.com/extra-images/widget-gallery-2-full-3.jpg"><img src="./phy_files/widget-gallery-2-3.jpg" alt=""> <span><i class="wmicon-arrows3"></i></span> </a></li>
+                                <li><a title="" data-rel="prettyPhoto[gallery1]" href="https://www.sjsmls.com/extra-images/widget-gallery-2-full-4.jpg"><img src="./phy_files/widget-gallery-2-4.jpg" alt=""> <span><i class="wmicon-arrows3"></i></span> </a></li>
+                                <li><a title="" data-rel="prettyPhoto[gallery1]" href="https://www.sjsmls.com/extra-images/widget-gallery-2-full-5.jpg"><img src="./phy_files/widget-gallery-2-5.jpg" alt=""> <span><i class="wmicon-arrows3"></i></span> </a></li>
+                                <li><a title="" data-rel="prettyPhoto[gallery1]" href="https://www.sjsmls.com/extra-images/widget-gallery-2-full-6.jpg"><img src="./phy_files/widget-gallery-2-6.jpg" alt=""> <span><i class="wmicon-arrows3"></i></span> </a></li>
+                                <li><a title="" data-rel="prettyPhoto[gallery1]" href="https://www.sjsmls.com/extra-images/widget-gallery-2-full-7.jpg"><img src="./phy_files/widget-gallery-2-7.jpg" alt=""> <span><i class="wmicon-arrows3"></i></span> </a></li>
+                                <li><a title="" data-rel="prettyPhoto[gallery1]" href="https://www.sjsmls.com/extra-images/widget-gallery-2-full-8.jpg"><img src="./phy_files/widget-gallery-2-8.jpg" alt=""> <span><i class="wmicon-arrows3"></i></span> </a></li>
+                                <li><a title="" data-rel="prettyPhoto[gallery1]" href="https://www.sjsmls.com/extra-images/widget-gallery-2-full-9.jpg"><img src="./phy_files/widget-gallery-2-9.jpg" alt=""> <span><i class="wmicon-arrows3"></i></span> </a></li>
+                            </ul>
+                        </aside>
+                    </div>
+                </div>
+            </div>
+            <!--// FooterWidgets \\-->
+            
+            <div class="clearfix"></div>
+            <!--// FooterPartner \\-->
+            
+            <!--// FooterPartner \\-->
+
+            <!--// FooterCopyRight \\-->
+            <div class="wm-copyright-two">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-6"> <span><i class="wmicon-nature"></i> iSpectra Digital Info</span> </div>
+                        
+                    </div>
+                </div>
+            </div>
+            <!--// FooterCopyRight \\-->
+
+		</footer>
+		<!--// Footer \\-->
+
+	<div class="clearfix"></div>
+    </div>
+    <!--// Main Wrapper \\-->
+
+    <!-- ModalLogin Box -->
+    <div class="modal fade" id="ModalLogin" tabindex="-1" role="dialog">
+      <div class="modal-dialog" role="document">
+        <div class="modal-content">
+          <div class="modal-body">
+            
+            <div class="wm-modallogin-form wm-login-popup">
+                <span class="wm-color">Login as Student</span>
+                <form>
+                    <ul>
+                        <li> <input type="text" value="Your Username" onblur="if(this.value == &#39;&#39;) { this.value =&#39;Your Username&#39;; }" onfocus="if(this.value ==&#39;Your Username&#39;) { this.value = &#39;&#39;; }"> </li>
+                        <li> <input type="password" value="password" onblur="if(this.value == &#39;&#39;) { this.value =&#39;password&#39;; }" onfocus="if(this.value ==&#39;password&#39;) { this.value = &#39;&#39;; }"> </li>
+                        <li> <a href="https://www.sjsmls.com/#" class="wm-forgot-btn">Forgot Password?</a> </li>
+                        <li> <input type="submit" value="Sign In"> </li>
+                    </ul>
+                </form>
+                <span class="wm-color">or try our socials</span>
+                <ul class="wm-login-social-media">
+                    <li><a href="https://www.sjsmls.com/#"><i class="wmicon-social5"></i> Facebook</a></li>
+                    <li class="wm-twitter-color"><a href="https://www.sjsmls.com/#"><i class="wmicon-social4"></i> twitter</a></li>
+                    <li class="wm-googleplus-color"><a href="https://www.sjsmls.com/#"><i class="fa fa-google-plus-square"></i> Google+</a></li>
+                </ul>
+                <p>Not a member yet? <a href="https://www.sjsmls.com/#">Sign-up Now!</a></p>
+            </div>
+            <div class="wm-modallogin-form wm-register-popup">
+                <span class="wm-color">create Your Account today</span>
+                <form>
+                    <ul>
+                        <li> <input type="text" value="Your Username" onblur="if(this.value == &#39;&#39;) { this.value =&#39;Your Username&#39;; }" onfocus="if(this.value ==&#39;Your Username&#39;) { this.value = &#39;&#39;; }"> </li>
+                        <li> <input type="text" value="Your E-mail" onblur="if(this.value == &#39;&#39;) { this.value =&#39;Your E-mail&#39;; }" onfocus="if(this.value ==&#39;Your E-mail&#39;) { this.value = &#39;&#39;; }"> </li>
+                        <li> <input type="password" value="password" onblur="if(this.value == &#39;&#39;) { this.value =&#39;password&#39;; }" onfocus="if(this.value ==&#39;password&#39;) { this.value = &#39;&#39;; }"> </li>
+                        <li> <input type="text" value="Confirm Password" onblur="if(this.value == &#39;&#39;) { this.value =&#39;Confirm Password&#39;; }" onfocus="if(this.value ==&#39;Confirm Password&#39;) { this.value = &#39;&#39;; }"> </li>
+                        <li> <input type="submit" value="Create Account"> </li>
+                    </ul>
+                </form>
+                <span class="wm-color">or signup with your socials:</span>
+                <ul class="wm-login-social-media">
+                    <li><a href="https://www.sjsmls.com/#"><i class="wmicon-social5"></i> Facebook</a></li>
+                    <li class="wm-twitter-color"><a href="https://www.sjsmls.com/#"><i class="wmicon-social4"></i> twitter</a></li>
+                    <li class="wm-googleplus-color"><a href="https://www.sjsmls.com/#"><i class="fa fa-google-plus-square"></i> Google+</a></li>
+                </ul>
+                <p>Already a member? <a href="https://www.sjsmls.com/#">Sign-in Here!</a></p>
+            </div>
+
+          </div>
+        </div>
+      <div class="clearfix"></div>
+      </div>
+    </div>
+    <!-- ModalLogin Box -->
+
+    <!-- ModalLogin Box -->
+    <div class="modal fade" id="ModalLoginTwo" tabindex="-1" role="dialog">
+      <div class="modal-dialog" role="document">
+        <div class="modal-content">
+          <div class="modal-body">
+            
+            <div class="wm-modallogin-form wm-login-popup">
+                
+                
+                <span class="wm-color">Branches</span>
+                <ul class="wm-login-social-media">
+                    <li><a href="http://sjslalganj.in/"> Lalganj</a></li>
+                    <li class="wm-twitter-color"><a href="http://sjsbachhrawan.in/"> Bachhhrawan</a></li>
+                    <li class="wm-googleplus-color"><a href="http://sjsmaharajganj.in/"> Maharajganj</a></li>
+                </ul>
+                
+            </div>
+            
+
+          </div>
+        </div>
+      <div class="clearfix"></div>
+      </div>
+    </div>
+    <!-- ModalLogin Box -->
+
+	<!-- jQuery (necessary for JavaScript plugins) -->
+	<script type="text/javascript" src="./phy_files/jquery.js.download"></script>
+	<script type="text/javascript" src="./phy_files/modernizr.js.download"></script>
+    <script type="text/javascript" src="./phy_files/bootstrap.min.js.download"></script>
+    <script type="text/javascript" src="./phy_files/jquery.prettyphoto.js.download"></script>
+    <script type="text/javascript" src="./phy_files/jquery.countdown.min.js.download"></script>
+    <script type="text/javascript" src="./phy_files/fitvideo.js.download"></script>
+    <script type="text/javascript" src="./phy_files/skills.js.download"></script>
+    <script type="text/javascript" src="./phy_files/slick.slider.min.js.download"></script>
+    <script type="text/javascript" src="./phy_files/waypoints-min.js.download"></script>
+    <script type="text/javascript" src="./phy_files/mediaelement-and-player.min.js.download"></script>
+    <script type="text/javascript" src="./phy_files/isotope.min.js.download"></script>
+    <script type="text/javascript" src="./phy_files/jquery.nicescroll.min.js.download"></script>
+    <script type="text/javascript" src="./phy_files/js(1)"></script>
+    <script type="text/javascript" src="./phy_files/functions.js.download"></script>
+    
+    
+
+
+
+
+
+
+
+
+
+    
+
+
+
+</body></html>

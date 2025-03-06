@@ -1,0 +1,239 @@
+/* Global Styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #141414;
+    color: white;
+    font-family: Arial, sans-serif;
+}
+
+/* Reset default margin and padding */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Navbar Styles */
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #141414; /* Background color matching JioCinema */
+    padding: 10px 20px;
+    position: fixed;
+    width: 100%;
+    z-index: 1000;
+}
+
+.logo img {
+    height: 40px; /* Adjust logo height */
+}
+
+.nav-links {
+    list-style: none;
+    display: flex;
+    gap: 30px; /* Space between links */
+}
+
+.nav-links a {
+    text-decoration: none;
+    color: #ffffff; /* White text color */
+    font-size: 16px;
+    transition: color 0.3s;
+}
+
+.nav-links a:hover {
+    color: #e50914; /* JioCinema red on hover */
+}
+
+.search-container {
+    display: flex;
+    align-items: center;
+}
+
+.search-container input {
+    padding: 8px;
+    border: none;
+    border-radius: 5px;
+    width: 250px; /* Fixed width for search */
+    outline: none;
+}
+
+.search-button {
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+    margin-left: 5px;
+}
+
+.user-icons {
+    display: flex;
+    gap: 20px; /* Space between icons */
+}
+
+.user-icons img {
+    width: 30px; /* Icon size */
+    cursor: pointer;
+}
+
+/* Hero Section Styles */
+.hero-section {
+    position: relative;
+    text-align: center;
+    color: white;
+    padding: 80px 20px;
+}
+
+.hero-image {
+    width: 100%;
+    height: 400px;
+    object-fit: cover;
+}
+
+.hero-content {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.hero-content h1 {
+    font-size: 48px;
+    margin-bottom: 10px;
+}
+
+.hero-content p {
+    font-size: 20px;
+}
+
+.hero-content a{
+	text-decoration:none;
+	color:#fff;
+}
+
+.btn {
+    background-color: #e50914;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    text-decoration: none;
+}
+
+/* Content Section Styles */
+.content-section {
+    margin: 40px 0;
+}
+
+.section-header {
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.carousel {
+    display: flex;
+    overflow: hidden;
+}
+
+.card {
+    margin: 0 10px;
+}
+
+.card img {
+    width: 300px;
+    height: 300px;
+    object-fit: cover;
+    border-radius: 5px;
+}
+
+/* Subscription Section Styles */
+.subscription-section {
+    text-align: center;
+    margin: 40px 0;
+}
+
+.subscription-plans {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+.plan {
+    background-color: #1a1a1a;
+    padding: 20px;
+    border-radius: 10px;
+    width: 250px;
+}
+
+/* Footer Styles */
+.footer {
+    background-color: #1a1a1a;
+    padding: 40px 20px;
+}
+
+.footer-container {
+    display: flex;
+    justify-content: space-between;
+}
+
+.footer-section {
+    width: 25%;
+}
+
+.footer-section h4 {
+    margin-bottom: 15px;
+}
+
+.footer-section ul {
+    list-style: none;
+}
+
+.footer-section a {
+    color: white;
+    text-decoration: none;
+}
+
+.footer-section img{
+	width:40px;
+	
+}
+
+/* Responsive Styles */
+@media (max-width: 768px) {
+    .nav-links {
+        display: none; /* Hide links on small screens */
+    }
+
+    .search-bar {
+        width: 100%;
+    }
+
+    .search-bar input {
+        width: 100%;
+    }
+
+    .footer-container {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .footer-section {
+        width: auto;
+        margin-bottom: 15px;
+    }
+
+    .subscription-plans {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .plan {
+        width: 80%;
+        margin-bottom: 20px;
+    }
+}
